@@ -1,6 +1,6 @@
 # Isikan identitas dasar disini
-Nama  : Desi Fitria Yudanto
+Nama    : Desi Fitria Yudanto
 
-NIM   : 119140028
+NIM     : 119140028
 
-Kelas : RA
+Kelas   : RA
